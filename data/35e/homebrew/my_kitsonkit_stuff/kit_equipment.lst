@@ -1,0 +1,270 @@
+#Special items
+Material Craft Component								TYPE:Coin											COST:1	WT:0.02														SOURCEPAGE:p.
+
+
+#Wondrous Items
+Artificers Monocle UMD+2			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:2100	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +2 competence bonus to UMD			BONUS:SKILL|Use Magic Device|2|TYPE=COMPETENCE|
+Artificers Monocle UMD+4			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:3850	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +4 competence bonus to UMD			BONUS:SKILL|Use Magic Device|4|TYPE=COMPETENCE|
+Artificers Monocle UMD+6			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:5850	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +6 competence bonus to UMD			BONUS:SKILL|Use Magic Device|6|TYPE=COMPETENCE|
+Artificers Monocle UMD+5			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:4750	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +5 competence bonus to UMD			BONUS:SKILL|Use Magic Device|5|TYPE=COMPETENCE|
+Artificers Monocle UMD+10			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:12250	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +10 competence bonus to UMD			BONUS:SKILL|Use Magic Device|10|TYPE=COMPETENCE|
+
+Talisman of Transference	TYPE:Magic.Wondrous	WT:0.5	COST:200	SPROP:A talisman of transference is a conduit through which XP can be transferred for the purposes of constructing an agreed upon magic item.
+
+
+#Items created by Atrificer 4 with Extraordinary Artisan
+Belt of Hidden Pouches CSE			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Waist.Belt		COST:3500	WT:1	CONTAINS:*150										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:74																																																																																																						SPROP:This belt has 10 small pockets which are small bags of holding capable of supporting 0.5 cu ft of nonliving matter or up to 5 lbs. Behind each pocket are 2 additional secret ones that require a command word to access.
+Belt of Hidden Pouches and Power CSE			TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Waist.Belt		COST:3500	WT:1	CONTAINS:*150		BONUS:STAT|STR|2|TYPE=Enhancement										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:74																																																																																																						SPROP:This belt has 10 small pockets which are small bags of holding capable of supporting 0.5 cu ft of nonliving matter or up to 5 lbs. Behind each pocket are 2 additional secret ones that require a command word to access. Also provide +2 Str
+Amulet of Natural Armor +1 CSE		TYPE:Magic.Wondrous.Amulet																									COST:1400	WT:0																		SOURCEPAGE:p.246																																																BONUS:COMBAT|AC|1|TYPE=NaturalArmorEnhancement																																																																																																																																																																																																									SPROP:This amulet, usually crafted from bone or beast scales, toughens the wearer's body and flesh, giving him an enhancement bonus to his natural armor bonus of from +1. Faint transmutation; CL 5th																																																																																																																																																																																																																																																																																																																																								SORTKEY:Amulet of Natural Armor +01
+Rope of Climbing CSE				TYPE:Magic.Wondrous																										COST:2100	WT:3																		SOURCEPAGE:p.266																																																																																																																																																																																																																																																																SPROP:A 60-foot-long rope of climbing is no thicker than a wand, but it is strong enough to support 3,000 pounds. Upon command, the rope snakes forward, upward, downward, or in any other direction at 10 feet per round, attaching itself securely wherever its owner desires. It can unfasten itself and return in the same manner. A rope of climbing can be commanded to knot or unknot itself. This causes large knots to appear at 1-foot intervals along the rope. Knotting shortens the rope to a 50-foot length until the knots are untied but lowers the DC of Climb checks while using it by 10. A creature must hold one end of the rope when its magic is invoked. Faint transmutation; CL 3rd
+Everbright Lantern CSE				TYPE:Goods.General.LightSource													COST:148.4		WT:3											SOURCEPAGE:p.265														QUALITY:Bright Illumination|60 ft. cone	QUALITY:Shadowy Illumination|120 ft. cone
+Cloak of Elvenkind CSE				TYPE:Magic.Wondrous.Cape																									COST:1750		WT:1																		SOURCEPAGE:p.253																																																																															BONUS:SKILL|Hide|5|TYPE=Competence																																																																																																																																																																												SPROP:This cloak of neutral gray cloth is indistinguishable from an ordinary cloak of the same color. However, when worn with the hood drawn up around the head, it gives the wearer a +5 competence bonus on Hide checks. Faint illusion; CL 3rd
+Artificers Monocle UMD +4 CSE		TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:2695	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +4 competence bonus to UMD			BONUS:SKILL|Use Magic Device|4|TYPE=COMPETENCE|
+Artificers Monocle UMD +6 CSE		TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Face.Facewear		COST:4095	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:72																																																																																																						SPROP:Putting on a monocle is a standard action. While wearing an artificer's monocle, whenever you successfully use your artificer knowledge class feature (ECS 31) to detect an item's magical aura or you cast detect magic and have at least 5 ranks of Knowledge (arcana), you can spend 1 additional minute studying the item. If you do, you can identify the abilities of that item as if you had cast identify upon it. And provide +6 competence bonus to UMD			BONUS:SKILL|Use Magic Device|6|TYPE=COMPETENCE|
+Talisman of Transference CSE		TYPE:Magic.Wondrous	WT:0.5	COST:140	SPROP:A talisman of transference is a conduit through which XP can be transferred for the purposes of constructing an agreed upon magic item.
+Everlasting Rations CSE				TYPE:Wondrous.Magic.Tools.Group_Tools					COST:245	WT:2		SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:160	SPROP:This pouch contains enough trail rations to feed a Medium creature for one day. Every morning at sunrise, the pouch magically creates another day's worth of rations.
+Everfull Mug CSE					TYPE:Wondrous.Magic.Tools.Group_Tools					COST:140	WT:0		SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:160
+Enchanter Gloves CSE		TYPE:Magic.Wondrous.Glove		COST:-225		WT:0		EQMOD:SPL_CHRG|SPELLNAME[Spell Storing Item]SPELLLEVEL[1]CASTERLEVEL[1]CHARGES[50]		SPROP:Cast Spell storing infusion in touched object
+
+
+#Magic Item
+#Merged Items
+#Healing Belt Type: Wondrous. Magic. Group_Clothing. BodySlot_Waist. Belt Cost: 750 gp Wt: 1 lbs.   Size: M Charges: 3 Properties: This broad leather belt is studded with three moonstones. This belt gives you a +2 competence bonus to heal checks continously. Additionaly, it has 3 charges (renewed each day at dawn) which can be spent to heal damage with a touch (or harm undead). 1 charge = 2d8, 2 charges = 3d8, 3 charges = 4d8. Source: Wizards of the Coast - Magic Item Compendium, 110 
+# and
+#Belt of Giant Strength +4 Type: Magic. Wondrous. Belt Cost: 16,000 gp Wt: 1 lbs.   Size: M Properties: This wide belt is made of thick leather and studded with iron. The belt adds to the wearer's Strength score in the form of an enhancement bonus of +4 or +6. Moderate transmutation; CL 10th Source: Dungeon Master's Guide, p.248
+
+#Healing Belt							TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Waist.Belt		COST:750	WT:1										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:110	SPROP:This broad leather belt is studded with three moonstones. This belt gives you a +2 competence bonus to heal checks continously. Additionaly, it has 3 charges (renewed each day at dawn) which can be spent to heal damage with a touch (or harm undead). 1 charge = 2d8, 2 charges = 3d8, 3 charges = 4d8.	EQMOD:USABLE_ITEM_1|CHARGES[3]	BONUS:SKILL|Heal|2|TYPE=Competence	
+#Belt of Giant Strength +4																												TYPE:Magic.Wondrous.Belt																									COST:16000	WT:1																		SOURCEPAGE:p.248																																																																																																													BONUS:STAT|STR|4|TYPE=Enhancement																																																																																																																																														SPROP:This wide belt is made of thick leather and studded with iron. The belt adds to the wearer's Strength score in the form of an enhancement bonus of +4 or +6. Moderate transmutation; CL 10th																																																																																																																																																																																																																																																																																																																																									SORTKEY:Belt of Strength +04
+#Belt of Battle							TYPE:Magic.Wondrous.Group_Clothing.BodySlot_Waist.Belt		COST:12000	WT:0										SOURCELONG:Magic Item Compendium	SOURCESHORT:MIC		SOURCEPAGE:73																											BONUS:COMBAT|INITIATIVE|2																																																																							SPROP:Has 3 charges/day. When activated gives you an extra action which must be taken immediately. (1 charge = 1 move action, 2 charges = 1 standard action, 3 charges = 1 full round action)
+
+Clear Mind effect persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|4|TYPE=Sacred
+	SPROP:You gain a +4 sacred bonus on saving throws made against mind-affecting spells and effects. Pal1
+
+Arcane Sight effect persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|4|TYPE=Sacred
+	SPROP:You gain a +4 sacred bonus on saving throws made against mind-affecting spells and effects.
+
+Sonic Shield persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|4|TYPE=Deflection
+	SPROP:This spell grants you a +4 deflection bonus to AC. In addition, anyone who successfully hits you with a melee attack takes 1d8 points of sonic damage and must make a Fortitude saving throw or be knocked 5 feet away from you into an unoccupied space of your choice. If no space of sufficient size is available for it to enter, it instead takes an extra 1d8 points of sonic damage. Brd3
+
+Repelling Shield persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|4|TYPE=Shield
+	SPROP:You create a shield of force that can push your attackers away from you. This spell functions like the shield spell, except that any adjacent creature that makes a melee attack against you is also pushed 5 feet away from you after the attack is resolved. A successful Reflex save negates this effect, and spell resistance applies. You can choose the direction of the creature's movement, as long as it ends up farther away from you than it began. You can't push a creature into a space that it couldn't legally occupy (such as a wall). If no legal space exists to push the creature, it is unaffected. Wiz3
+	
+Mage Armor Greater persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|4|TYPE=Armor
+	SPROP:Mage Armor Greater persist 6 AC, Wiz3
+
+Primal Instinc effect
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|INITIATIVE|5|TYPE=Competence
+	BONUS:SKILL|Survival|5|TYPE=Competence
+	SPROP:Primal Instinc effect
+
+Scintillating Scales 4 persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|4|TYPE=Deflection
+	BONUS:COMBAT|AC|-4|TYPE=NaturalArmorEnhancement
+	SPROP:Scintillating Scales 4 persist
+
+Bite of the Werewolf persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0	
+	BONUS:STAT|DEX|4|TYPE=Enhancement
+	BONUS:STAT|CON|4|TYPE=Enhancement	
+	BONUS:STAT|STR|2|TYPE=Enhancement	
+	BONUS:COMBAT|AC|4|TYPE=NaturalArmorEnhancement
+	SPROP:Bite of the Werewolf persist
+
+Bite of the Wereboar persist
+	TYPE:Magic.Wondrous
+	COST:0
+	WT:0
+	BONUS:STAT|CON|6|TYPE=Enhancement
+	BONUS:STAT|STR|4|TYPE=Enhancement
+	BONUS:COMBAT|AC|8|TYPE=NaturalArmorEnhancement
+	SPROP:Bite of the Wereboar persist
+
+
+
+
+Silver Beard persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0
+	BONUS:COMBAT|AC|2|TYPE=Deflection
+	SPROP:Silver beard +2AC
+	
+Alter Self(Tren) persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0	
+	BONUS:COMBAT|AC|8|TYPE=NaturalArmorEnhancement
+	SIZE:M	
+	MOVE:Walk,30,Swim,40
+	BONUS:SKILL|Hide|4|TYPE=Racial
+	SPROP:Alter self to Tren
+
+Bite of the Wererat persist
+	TYPE:Magic.Wondrous
+	COST:0	
+	WT:0	
+	BONUS:STAT|DEX|6|TYPE=Enhancement
+	BONUS:STAT|CON|2|TYPE=Enhancement	
+	BONUS:COMBAT|AC|3|TYPE=NaturalArmorEnhancement
+	SPROP:Bite of the Wererat persist
+
+
+Feather Fall Talisman
+	TYPE:Wondrous.Magic
+	COST:50
+	WT:0
+	SOURCELONG:Sharn City of Towers
+	SOURCESHORT:SCoT
+	SOURCEPAGE:170
+	SPROP:This small pin is made from brightly colored feathers. Its wearer can activate it as a free action to gain the effect of afeather fall spell, but its magic functions only once before it is expended and the talisman becomes useless. Like thefeather fall spell, the item can be activated even when it is not the wearer’s turn.
+	
+	
+Feather Fall Talisman CSE
+	TYPE:Wondrous.Magic
+	COST:35
+	WT:0
+	SOURCELONG:Sharn City of Towers
+	SOURCESHORT:SCoT
+	SOURCEPAGE:170
+	SPROP:This small pin is made from brightly colored feathers. Its wearer can activate it as a free action to gain the effect of afeather fall spell, but its magic functions only once before it is expended and the talisman becomes useless. Like thefeather fall spell, the item can be activated even when it is not the wearer’s turn.
+	
+Belt of Giant Healing Strength +4
+	TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Waist.Belt
+	COST:17125
+	WT:2
+	SOURCELONG:Magic Item Compendium
+	SOURCESHORT:MIC
+	SOURCEPAGE:110,248
+	EQMOD:USABLE_ITEM_1|CHARGES[3]	
+	BONUS:SKILL|Heal|2|TYPE=Competence	
+	BONUS:STAT|STR|4|TYPE=Enhancement
+	SPROP:This wide belt is made of thick leather and studded with iron. The belt adds to the wearer's Strength score in the form of an enhancement bonus of +4 or +6. Moderate transmutation; CL 10th. This belt gives you a +2 competence bonus to heal checks continously. Additionaly, it has 3 charges (renewed each day at dawn) which can be spent to heal damage with a touch (or harm undead). 1 charge = 2d8, 2 charges = 3d8, 3 charges = 4d8.	
+
+Battle Belt of Giant Healing Strength +4
+	TYPE:Wondrous.Magic.Group_Clothing.BodySlot_Waist.Belt
+	COST:35125
+	WT:2
+	SOURCELONG:Magic Item Compendium
+	SOURCESHORT:MIC
+	SOURCEPAGE:110,248, 73
+	EQMOD:USABLE_ITEM_1|CHARGES[3]	
+	EQMOD:USABLE_ITEM_2|CHARGES[3]
+	BONUS:SKILL|Heal|2|TYPE=Competence	
+	BONUS:STAT|STR|4|TYPE=Enhancement
+	BONUS:COMBAT|INITIATIVE|2
+	SPROP:This wide belt is made of thick leather and studded with iron. The belt adds to the wearer's Strength score in the form of an enhancement bonus of +4 or +6. Moderate transmutation; CL 10th. This belt gives you a +2 competence bonus to heal checks continously. Additionaly, it has 3 charges (renewed each day at dawn) which can be spent to heal damage with a touch (or harm undead). 1 charge = 2d8, 2 charges = 3d8, 3 charges = 4d8. As battle belt has 3 charges/day. When activated gives you an extra action which must be taken immediately. (1 charge = 1 move action, 2 charges = 1 standard action, 3 charges = 1 full round action)
+
+Timeless Crossbow, Light +1 (Magebane/Bane Undead/Keen/Quick Loading/Spellblade Dispell Magic/Frost/Shock/Corrosive/Earthbound)
+	KEY:TCL1MBUKQLSDMFSCE
+	PROFICIENCY:WEAPON|Crossbow (Light)			
+	TYPE:Weapon.Container.Simple.Ranged.Standard.Piercing.Container.Projectile.Crossbow											
+	CONTAINS:UNLIM|Weapon Crystal=1	CONTAINS:UNLIM|Bolt|SpecificBolt					
+	COST:35	
+	WT:4							
+	CRITMULT:x2	
+	CRITRANGE:4							
+	DAMAGE:1d8				
+	RANGE:80	
+	SOURCEPAGE:p.115
+	BONUS:WEAPON|DAMAGE,TOHIT|1|TYPE=ENHANCEMENT
+	SPROP:Special enchanteda light crossbow 1 (Magebane/Bane Undead/Keen/Quick Loading/Spellblade Dispell Magic/Frost/Shock/Corrosive/Earthbound). If wielder and target both on ground +2 to attacj and damage. The wielder is immune to a Dispell Maic spell. The spell must be one that is targeted on the wielder, not an area of effect spell. When targeted with the spell, the weapon absorbs it. On the following round, the wielder may direct the spell at a target as a Free Action, or may let it drain harmlessly away., Activated/deactivated at will to do an extra 1d6 acid damage with each hit., threat range doubled, This weapon's bonus is an additional +2 vs. spell casters and spell users, additionally it does an extra 2d6 damage against them., +2 enhancement bonus and does +2d6 bonus damage vs. Undead bestowed on ammunition, +1d6 cold damage bestowed on ammunition, A hand or light crossbow may be reloaded as a free action, a heavy crossbow as a move action if it has this property., +1d6 electricity damage bestowed on ammunition
+
+Timeless Dagger of Elemental Summoning
+	PROFICIENCY:WEAPON|Dagger				
+	TYPE:Weapon.Container.Melee.Finesseable.Ranged.Thrown.Simple.Standard.Piercing.Slashing.Dagger									
+	CONTAINS:UNLIM|Weapon Crystal=1											
+	COST:2	
+	WT:1							
+	CRITMULT:x2	
+	CRITRANGE:2							
+	DAMAGE:1d4				
+	WIELD:Light						
+	RANGE:10						
+	SIZE:M	
+	BONUS:WEAPON|DAMAGE,TOHIT|1|TYPE=ENHANCEMENT
+	SOURCEPAGE:p.116
+	SPROP: Wooden but functions as steel, does not burn. The wielder is immune to a Dispell Magic spell. The spell must be one that is targeted on the wielder, not an area of effect spell. When targeted with the spell, the weapon absorbs it. On the following round, the wielder may direct the spell at a target as a Free Action, or may let it drain harmlessly away., when thrown will return just before thrower's next turn, Once per day, as a Standard Action, the wielder can summon a Large Air/Earth/Fire/Water Elemental for 11 rounds, can store a single targeted spell of up to 3rd level with a casting time of 1 action, This weapon allows you to transfer some or all of its enhancement bonus to your saving throws. The transfer is a free action and needs to be repeated each round., +2 enhancement bonus,Spell Storing/Wand Chamber/Large Elemental Power Air/Earth/FireWater ,Spellstrike/Returning/Spellblade of Dispel Magic.
+	
+Timeless Buckler of Elemental Resistance
+	PROFICIENCY:SHIELD|Buckler		
+	TYPE:Shield.Light.ShieldProfLight.Specific.Nonmetal				
+	COST:5	
+	WT:1.5		
+	SLOTS:0	
+	ACCHECK:0							
+	SOURCEPAGE:p.221	
+	SPELLFAILURE:5										
+	BONUS:COMBAT|AC|1|TYPE=Shield	
+	BONUS:COMBAT|AC|5|TYPE=SHIELDENHANCEMENT
+	ABILITY:Special Ability|VIRTUAL|Resistance To Acid (Sp)
+	BONUS:VAR|AcidResistanceBonusSp|10|TYPE=Base	
+	ABILITY:Special Ability|VIRTUAL|Resistance To Cold (Sp)
+	BONUS:VAR|ColdResistanceBonusSp|10|TYPE=Base	
+	ABILITY:Special Ability|VIRTUAL|Resistance To Fire (Sp)
+	BONUS:VAR|FireResistanceBonusSp|10|TYPE=Base
+	ABILITY:Special Ability|VIRTUAL|Resistance To Sonic (Sp)
+	BONUS:VAR|SonicResistanceBonusSp|10|TYPE=Base
+	ABILITY:Special Ability|VIRTUAL|Resistance To Electricity (Sp)
+	BONUS:VAR|ElectricityResistanceBonusSp|10|TYPE=Base	
+	SPROP:This magical light ironwooden shield is made out of ironwood and often favored by rogues and wizards. It has 5 enhancement bonus, and its construction material makes it lighter than a normal wooden shield. It weighs 2-1/2 pounds and has no armor check penalty.  Have 10 point of (Acid Resistance/Cold Resistance/Electricity Resistance/Fire Resistance/Sonic Resistance)
+		
+	
+Timeless Buckler of Full Fortification
+	PROFICIENCY:SHIELD|Buckler		
+	TYPE:Shield.Light.ShieldProfLight.Specific.Nonmetal				
+	COST:5	
+	WT:1.5		
+	SLOTS:0	
+	ACCHECK:0							
+	SOURCEPAGE:p.221	
+	SPELLFAILURE:5										
+	BONUS:COMBAT|AC|1|TYPE=Shield	
+	BONUS:COMBAT|AC|5|TYPE=SHIELDENHANCEMENT
+	SPROP:This magical light ironwooden shield is made out of ironwood and often favored by rogues and wizards. It has 5 enhancement bonus, and its construction material makes it lighter than a normal wooden shield. It weighs 2-1/2 pounds and has no armor check penalty. Full Fortification negate all criticak attack
+	
+Sirine's Grace persist
+	TYPE:Magic.Wondrous
+	COST:0
+	WT:0
+	BONUS:STAT|DEX|4|TYPE=Enhancement
+	BONUS:STAT|CHA|4|TYPE=Enhancement
+	BONUS:COMBAT|AC|CHA|TYPE=Deflection
+	BONUS:MOVEADD|TYPE.Swim|60
+	BONUS:SKILL|Perform (Act)|8
+	BONUS:SKILL|Perform (Comedy)|8
+	BONUS:SKILL|Perform (Dance)|8
+	BONUS:SKILL|Perform (Keyboard Instruments)|8
+	BONUS:SKILL|Perform (Oratory)|8
+	BONUS:SKILL|Perform (Percussion Instruments)|8
+	BONUS:SKILL|Perform (String Instruments)|8
+	BONUS:SKILL|Perform (Wind Instruments)|8
+	BONUS:SKILL|Perform (Sing)|8
+	SPROP:For the duration of this spell, you gain a +4 enhancement bonus to Charisma and Dexterity, a deflection bonus to AC equal to your Charisma modifier, and a +8 bonus on Perform checks. You also gain a swim speed of 60 feet and the ability to breathe water. You can move and attack normally while underwater, even with slashing or bludgeoning weapons. SC p.191

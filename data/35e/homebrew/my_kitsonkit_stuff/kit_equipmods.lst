@@ -1,0 +1,52 @@
+#Crafter Mods
+
+Spellblade					
+	KEY:Spellblade					
+	TYPE:Weapon			
+	COST:6000																																																							
+	SPROP:The wielder is immune to a single spell, which is chosen when the weapon is created. The spell must be one that is targeted on the wielder, not an area of effect spell. When targeted with the spell, the weapon absorbs it. On the following round, the wielder may direct the spell at a target as a Free Action, or may let it drain harmlessly away.
+	ASSIGNTOALL:YES
+	VISIBLE:QUALIFY
+	CHOOSE:EQBUILDER.SPELL|Divine,Arcane|0|9
+	SOURCELONG:Player Guide for Faerun
+	SOURCESHORT:PGF		
+	SOURCEPAGE:120
+
+Elemental Power (Air/Large) Infused
+	KEY:Weapon ~ Element Power Air Large Infused		
+	TYPE:Weapon		
+	COST:0	
+	VISIBLE:QUALIFY		
+	SPROP:Once per day, as a Standard Action, the wielder can summon a Large Air Elemental for 11 rounds	
+	SOURCEPAGE:p.254
+
+Elemental Power (Earth/Large) Infused	
+	KEY:Weapon ~ Element Power Earth Large Infused
+	TYPE:Weapon		
+	COST:0	
+	VISIBLE:QUALIFY		
+	SPROP:Once per day, as a Standard Action, the wielder can summon a Large Earth Elemental for 11 rounds	
+	SOURCEPAGE:p.254
+
+Elemental Power (Fire/Large) Infused	
+	KEY:Weapon ~ Element Power Fire Large Infused
+	TYPE:Weapon		
+	COST:0	
+	VISIBLE:QUALIFY		
+	SPROP:Once per day, as a Standard Action, the wielder can summon a Large Fire Elemental for 11 rounds	
+	SOURCEPAGE:p.254
+
+Elemental Power (Water/Large) Infused	
+	KEY:Weapon ~ Element Power Water Large Infused
+	TYPE:Weapon		
+	COST:0	
+	VISIBLE:QUALIFY		
+	SPROP:Once per day, as a Standard Action, the wielder can summon a Large Water Elemental for 11 rounds	
+	SOURCEPAGE:p.254
+
+
+Timeless SpellStoring 0 lvl	KEY:SSI_WAND			TYPE:SSI			COST:0		VISIBLE:QUALIFY				PRETYPE:1,SSI_WAND							SPROP:Charges holds unlimited time, can be increased by Power Surge infusion					CHOOSE:EQBUILDER.SPELL|ANY|0|0	CHARGES:1|50
+Timeless SpellStoring 1 lvl	KEY:SSI_WAND			TYPE:SSI			COST:0		VISIBLE:QUALIFY				PRETYPE:1,SSI_WAND							SPROP:Charges holds unlimited time, can be increased by Power Surge infusion					CHOOSE:EQBUILDER.SPELL|ANY|1|1	CHARGES:1|50
+Timeless SpellStoring 2 lvl	KEY:SSI_WAND			TYPE:SSI			COST:0		VISIBLE:QUALIFY				PRETYPE:1,SSI_WAND							SPROP:Charges holds unlimited time, can be increased by Power Surge infusion					CHOOSE:EQBUILDER.SPELL|ANY|2|2	CHARGES:1|50
+Timeless SpellStoring 3 lvl	KEY:SSI_WAND			TYPE:SSI			COST:0		VISIBLE:QUALIFY				PRETYPE:1,SSI_WAND							SPROP:Charges holds unlimited time, can be increased by Power Surge infusion					CHOOSE:EQBUILDER.SPELL|ANY|3|3	CHARGES:1|50
+Timeless SpellStoring 4 lvl	KEY:SSI_WAND			TYPE:SSI			COST:0		VISIBLE:QUALIFY				PRETYPE:1,SSI_WAND						    SPROP:Charges holds unlimited time, can be increased by Power Surge infusion					CHOOSE:EQBUILDER.SPELL|ANY|4|4	CHARGES:1|50
