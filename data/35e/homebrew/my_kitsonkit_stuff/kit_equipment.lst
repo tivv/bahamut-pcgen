@@ -234,9 +234,9 @@ Timeless Dagger of Elemental Summoning
 	SPROP: Wooden but functions as steel, does not burn. The wielder is immune to a Dispell Magic spell. The spell must be one that is targeted on the wielder, not an area of effect spell. When targeted with the spell, the weapon absorbs it. On the following round, the wielder may direct the spell at a target as a Free Action, or may let it drain harmlessly away., when thrown will return just before thrower's next turn, Once per day, as a Standard Action, the wielder can summon a Large Air/Earth/Fire/Water Elemental for 11 rounds, can store a single targeted spell of up to 3rd level with a casting time of 1 action, This weapon allows you to transfer some or all of its enhancement bonus to your saving throws. The transfer is a free action and needs to be repeated each round., +2 enhancement bonus,Spell Storing/Wand Chamber/Large Elemental Power Air/Earth/FireWater ,Spellstrike/Returning/Spellblade of Dispel Magic.
 	
 Timeless Buckler of Elemental Resistance
-	PROFICIENCY:SHIELD|Buckler		
-	TYPE:Shield.Light.ShieldProfLight.Specific.Nonmetal				
-	COST:5	
+	PROFICIENCY:SHIELD|Buckler
+	TYPE:ShieldProf.Container.Shield.Buckler.Standard.ShieldProf.ShieldProfBuckler.Specific.Nonmetal
+	COST:5
 	WT:1.5		
 	SLOTS:0	
 	ACCHECK:0							
@@ -259,7 +259,7 @@ Timeless Buckler of Elemental Resistance
 	
 Timeless Buckler of Full Fortification
 	PROFICIENCY:SHIELD|Buckler		
-	TYPE:Shield.Light.ShieldProfLight.Specific.Nonmetal				
+	TYPE:ShieldProf.Container.Shield.Buckler.Standard.ShieldProf.ShieldProfBuckler.Specific.Nonmetal
 	COST:5	
 	WT:1.5		
 	SLOTS:0	
