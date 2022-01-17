@@ -1,0 +1,13 @@
+
+
+
+
+# Class Name		Hit Dice	Type			Class Type			Abbreviation	Source Page		Define				Combat bonus															Modify VAR					Bonus
+CLASS:Shadowcraft Mage	HD:4		TYPE:PC.Prestige	FACT:ClassType|Prestige	FACT:Abb|Art		SOURCEPAGE:p.120	DEFINE:ShadowcraftMageLVL|0	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*1/2|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0	BONUS:VAR|ShadowcraftMageLVL|CL	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/3	BONUS:SAVE|BASE.Reflex,BASE.Will|classlevel("APPLIEDAS=NONEPIC")/2+2
+# Class Name			Required Skill				Required Spell
+CLASS:Shadowcraft Mage	PRESKILL:2,Bluff=4,Hide=4	PREABILITY:1,CATEGORY=FEAT,Greater Spell Focus (Illusion),Spell Focus (Illusion)	PRESPELLTYPE:1,Arcane=3	PRESUBSCHOOL:1,Shadow=1	PRESPELLSCHOOL:1,Illusion=3
+# Class Name			Reqired Race
+CLASS:Shadowcraft Mage	PRERACE:1,Gnome%
+# Class Name		Skill Pts/Lvl	Class Skill
+CLASS:Shadowcraft Mage	STARTSKILLPTS:4	CSKILL:Appraise|Balance|Bluff|Climb|Concentration|TYPE=Craft|Decipher Script|Diplomacy|Disable Device|Disguise|Escape Artist|Gather Information|Hide|Jump|TYPE=Knowledge|Listen|Move Silently|Open Lock|TYPE=Profession|Sense Motive|Search|Sleight of Hand|Speak Language|Spellcraft|Spot|Swim|Tumble|Use Rope
+

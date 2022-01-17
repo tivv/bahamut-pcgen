@@ -1,0 +1,23 @@
+
+CAMPAIGN:Kitsonkit Homebrew
+GAMEMODE:35e|Bahamut35e
+RANK:7
+TYPE:Kitsonkit.Homebrew
+STATUS:ALPHA
+BOOKTYPE:Homebrew
+ISLICENSED:NO
+ISOGL:YES
+PUBNAMELONG:Kitsonkit
+PUBNAMESHORT:KIT
+PUBNAMEWEB:http://www.kitsonkit.com/dnd
+
+INFOTEXT:Materials available freely on Kitsonkit's website
+
+#ABILITY:ac_abilities.lst
+EQUIPMOD:kit_equipmods.lst
+EQUIPMENT:kit_equipment.lst
+SPELL:kit_spells.lst
+CLASS:kit_classes.lst
+
+
+INFOTEXT:Supports 6.4.1

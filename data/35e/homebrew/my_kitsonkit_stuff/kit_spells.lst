@@ -1,0 +1,44 @@
+#Spells
+#Spells
+
+# Spell Name					Unique Key					Classes of caster												Domains granting the spell	School			Sub-School			Descriptor				Components			Casting Time			Range			Target Area or Effect																																				Duration								Save Info																																						Spell Resistance				Source Page		Description
+Decomposite Magic Item	CLASSES:Artificer=4	SCHOOL:Transmutation	COMPS:S, M		CASTTIME:1 hour		RANGE:Touch	TARGETAREA:Magical item touched		DURATION:Permanent		SAVEINFO:None (object)		SPELLRES:No (object)		DESC:The magic item you touch decomposited to material components half of base cost or to experience point as 1/25 of base item cost. You should have creation feat for this type of item
+Metamagic Scroll	CLASSES:Artificer=1		SCHOOL:Transmutation		COMPS:S, V		CASTTIME:1 round		RANGE:Touch		TARGETAREA:Spell completion magic item touched		DURATION:1 round/level or until used		SAVEINFO: Will negates (harmless, object)		SPELLRES:Yes (harmless, object)		DESC:You apply a metamagic feat you know to a single spell written or stored on a spell completion item, such as a scroll or minor schema (see page 122). For the duration of this infusion, anyone who uses the imbued item applies the effect of that metamagic feat to the spell. You can only apply the benefit of a metamagic feat that adjusts the spell’s level by two levels or less (Silent Spell or Empower Spell, for example, but not Maximize Spell). No more than one metamagic feat can be applied to any single spell by way of metamagic scroll. 
+Unseen Crafter		CLASSES:Artificer=2		SCHOOL:Conjuration(Creation)		COMPS:S, V		CASTTIME:1 standart		RANGE:Close (25 ft. + 5 ft./2 levels)		DURATION:1 day/level (D)		SAVEINFO: None		SPELLRES:No		DESC:This spell functions as unseen servant, except that the unseen crafter can be assigned any one task that can be accomplished by the use of the Craft skill. Appropriate tools and materials must be provided for the unseen crafter; it makes Craft checks using your ranks in the skill plus your bonus for the relevant spellcasting ability (Intelligence for artificers, wizards, and magewrights, Charisma for bards and sorcerers, and Wisdom for clerics). An unseen crafter can take 10 or attempt to work more quickly (as described in the Craft skill description, page 70 of the Player’s Handbook), but this must be part of the command it is given when the spell is cast. Once the unseen crafter has completed the assigned task, the spell ends as if dismissed. If the unseen crafter leaves work undone, any creature or another unseen crafter can continue it. Special: When the unseen crafter is commanded to repair a warforged, it receives a +10 bonus on its Craft check. *The magewright NPC class is described on page 256 of the EBERRON Campaign Setting. 
+
+#Spells
+# Spell Name				Unique Key						Type				School					Sub-School				Descriptor							Spell Variations													Components						Casting Time					Range								Item		Target Area or Effect																												Duration															Save Info													Spell Resistance							Cost		XP Cost	Source, Long Desc.		Source, Short Desc.	Source Page		Source Pub Link
+Transference												TYPE:Arcane.Divine	SCHOOL:Transmutation																																	COMPS:V, S, F					CASTTIME:10 min					RANGE:10 ft										TARGETAREA:10-ft.-radius burst centered on you																						DURATION:Permanent; see text										SAVEINFO:Will negates (harmless)							SPELLRES:No														SOURCELONG:A Player’s Handbook II Web Enhancement	SOURCESHORT:PH2WEB			SOURCELINK:https://web.archive.org/web/20060614062956/http://www.wizards.com/default.asp?x=dnd%2Fwe%2F20060526a
+Acid Rain													TYPE:Arcane			SCHOOL:Conjuration		COMPS:V, S, M	CASTTIME:1 standart action		RANGE:Long		DESCRIPTOR:Acid		TARGETAREA:20-ft. radius cylinder, 40 ft. high		DURATION:1 full round and (CASTERLEVEL*1) round		SAVEINFO:None		SPELLRES:No		SOURCELONG:Heroes of Battle		SOURCESHORT:HoB				COST:50
+
+#List
+Metamagic Scroll		CLASSES:Artificer=1
+Unseen Crafter		CLASSES:Artificer=2
+Decomposite Magic Item									CLASSES:Artificer=4
+Transference											CLASSES:Bard=1|Sorcerer,Wizard=1|Cleric=1|Druid=1
+Acid Rain												CLASSES:Sorcerer,Wizard=5
+
+###############################
+#	@Spell Descriptions	#
+###############################
+###Block:
+# Spell Name					Source, Short Desc.	Source Page		Description
+Transference.MOD						DESC:Wisps of ethereal light rise off the targeted creatures, consolidate into glowing orbs, and then streak toward the spellcaster, fusing with their body.This spell allows you to store a transfer of XP from one or more creatures (maximum five), but only for the purpose of constructing an agreed upon magic item. The XP gained from other creatures through this spell is not counted toward attaining a new level. Targeted creatures must agree to the focus component that will be used in creating the magic item before allowing this spell to be cast on them. Once the spell is cast, targeted creatures control how much XP to transfer. You cannot accept a transfer of more XP than is needed to construct the agreed upon magic item. All the requirements for transferring XP, compensating for XP, and sharing XP costs apply to the casting of this spell.If allowable changes are made that require more XP, you must provide that XP yourself or cast this spell again to store a transfer of more XP as needed. If allowable changes are made that require less XP, the difference is returned to the targeted creatures in proportionate amounts (as per their original contributions). If you start making a magic item that is not allowed by even one of the targeted creatures, all the transferred XP is immediately returned to those creatures. If you spend at least one day making the agreed upon magic item, the XP is consumed regardless of whether the magic item is completed or not. If you start working on a new magic item after spending at least one day making the agreed upon magic item, the XP is consumed and lost (as per the normal rules for creating magic items).Focus: The raw material of agreed upon magic item (for example, a cloak, sword, or wand).|PRERULE:1,DisplayFullSpell
+Acid Rain.MOD							DESC:You create a downpour of acid that douses the area for 1 full round, dealing 7d6 points of acid damage to every creature in the area. The ground within the area becomes muddy and/or slick from the downpour, and remains in that condition for a number of rounds equal to the caster’s class level. Movement in the area is halved, though a creature can move at normal speed by making a DC 10 Balance check. Failure on the check means it cannot move in that round, and failure by 5 or more results in the creature falling prone. Material Component: A flask of acid (cost 10 gp).  
+Guidance of the Avatar				
+	CLASSES:Cleric=2			
+	SCHOOL:Divination											
+	COMPS:V S		
+	CASTTIME:1 action		
+	RANGE:Touch		
+	TARGETAREA:Creature touched										
+	DURATION:1 minute or until discharged		
+	SAVEINFO:None					
+	SPELLRES:Yes				
+	SOURCELONG:Spellbook Archive	
+	SOURCESHORT:SA		
+	SOURCEPAGE:p.9	
+	DESC:+20 competence bonus to a single skill check|!PRERULE:1,DisplayFullSpell	
+	DESC:Your deity's chosen avatar imbues the subject with divine power. The creature gets a +20 competence bonus on a single skill check and must choose to use the bonus before making the roll to which it applies.|PRERULE:1,DisplayFullSpell
+
+	
