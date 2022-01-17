@@ -13,7 +13,8 @@ PUBNAMEWEB:http://www.kitsonkit.com/dnd
 
 INFOTEXT:Materials available freely on Kitsonkit's website
 
-#ABILITY:ac_abilities.lst
+ABILITY:kit_abilities.lst
+ABILITYCATEGORY:kit_abilitycategories.lst
 EQUIPMOD:kit_equipmods.lst
 EQUIPMENT:kit_equipment.lst
 SPELL:kit_spells.lst
